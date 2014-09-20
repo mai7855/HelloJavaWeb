@@ -1,1 +1,3 @@
-*.setttings
+*.setttings/*
+.project
+.classpath
